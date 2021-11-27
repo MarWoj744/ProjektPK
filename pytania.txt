@@ -1,0 +1,39 @@
+								Programowanie proceduralne, obsługa pamięci dynamicznej i złożone typy danych
+Wyjaśnij różnicę, miedzy obiektami umieszczanymi w pamięci stosu i w pamięci sterty.;
+W jaki sposób w C++ alokujemy i zwalniamy pamięć dynamiczną?;
+Na czym polega „uziemianie wskaźnika” i jaką pełni rolę w programowaniu?;
+Kiedy następuje wyciek pamięci i czym się on objawia?;
+Jakie znasz sposoby na przekazywanie tablic do funkcji?;
+Jakie są reguły przeciążania nazw funkcji?;
+Czym są domyślne wartości argumentów funkcji i jakie są reguły ich używania?;
+Jakie znasz podstawowe operacje bitowe i jak one działają?;
+Czym są maski bitowe i jakie jest ich zastosowanie w programowaniu?;
+Czym są aliasy typów i jakie znasz sposoby ich tworzenia?;
+Czym jest typ wyliczeniowy i jak się z niego korzysta?;
+Czym jest struktura i czym różni się od tablicy?;
+								Podstawy programowania obiektowego
+Czym jest pole klasy, a czym metoda i jaka jest różnica miedzy klasą a strukturą?;
+Na czym polega zasada enkapsulacji i jak ją realizujemy pisząc klasy?;
+Czym jest konstruktor, destruktor i jakie znasz typy konstruktorów?;
+Czym są składniki statyczne klasy i czym się różnią od składników zwykłych?;
+Czym różni się zwykła zależność od asocjacji?;
+Czym różni się asocjacja od agregacji?;
+Czym różni się agregacja od kompozycji?;
+Czym różni się kompozycja od dziedziczenia?;
+Jakie są sekcje dostępu do składników klasy i jaki wpływają na dziedziczenie?;
+Czym jest klasa abstrakcyjna i jakie ma zastosowanie w programowaniu?;
+Jakie zaznasz sposoby rzutowania danych w C++ i do czego służą?;
+Czym są metody wirtualne i jakie mają zastosowanie w programowaniu obiektowym?;
+								Zarządzanie pamięcią w klasach, programowanie generyczne
+Jakie znasz mechanizmy kopiowania i kiedy należy je definiować ręcznie?;
+Co jest kluczowym krokiem przy definiowaniu przenoszenia i do czego służy std::move()?;
+Czym różni się kopia płytka od kopii głębokiej?;
+Jakie znasz typy referencji w C++ i do czego możemy je przypisać?;
+Co to jest szablon i do czego służy?;
+Co to jest specjalizacja szablonu i jak ją zdefiniować dla funkcji/klasy?;
+Co może być parametrem szablonu?;
+Kiedy wolno nam przeprowadzić kopię binarną, instancji/tablicy, a kiedy musimy użyć kopii element-po- elemencie, lub pole-po-polu?;
+Jakie znasz typy kolekcji dostępne w bibliotekach standardowych C++?;
+Czym są inteligentne wskaźniki i jakie znasz ich rodzaje?;
+Czym są iteratory i do czego ich używamy?;
+Czym jest funktor i jakie ma zastosowanie w pracy z algorytmami standardowymi STL?;
